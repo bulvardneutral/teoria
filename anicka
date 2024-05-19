@@ -1,0 +1,13 @@
+Textový súbor by som otvoril cez krátky program, ktorý by prešiel každý riadok a ku každej
+čiarke a bodke by priradil nejakú hodnotu. Tieto hodnoty by som potom vypísal do nového
+textového súboru.
+ Spočítal by som počet riadkov v textovom a súbore a počet znakov v riadku aby som určil
+výšku a šírku obrázka.
+ Textový súbor by mal byť menej náročný na úložisko, pretože obsahuje len textové znaky,
+zatiaľ čo grafický obrázok obsahuje oveľa viac údajov ako napríklad údaje o farbe každého
+pixelu.
+ Komprimovať tieto údaje môžeme pomocou rôznych kompresných algoritmov. Môžeme
+použiť aj program ako napríklad WinRAR, ktorý umožňuje skomprimovať údaje a vytvárať
+archívy vo formáte RAR alebo ZIP.
+ Môžeme poslať šifrovaný súbor inej osobe prostredníctvom šifrovaného e-mailu, ku ktorému
+príjemcovi pošleme heslo alebo kľúč na dešifrovanie súboru.
