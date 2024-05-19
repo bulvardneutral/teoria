@@ -1,0 +1,23 @@
+1. A, Rastrový editor
+Na vytvorenie takého obrázku by som použil grafický editor Skicár, pretože som s ním
+pracoval najviac. Na vytvorenie očí a nosa by som použil nástroj na vytváranie oválov. Uši by
+sa dali vytvoriť pomocou nástroja na vytváranie trojuholníkov. Tvary by som následovne
+vyplnil správnymi farbami pomocou nástroja na vypĺňanie tvarov (strieborná kanvička). Na
+záver by som súbor uložil do niektorého z rastrových formátov, ktoré by mi program ponúkol.
+(.png, .jpg).
+B, Vektorový editor
+Použil by som vektorový grafický editor Inkscape. Postup by bol rovnaký ako pri rastrovom
+editore. Na záver by som súbor uložil do formátu SVG.
+2. Vektorové kreslenie je zvyčajne presnejšie kvôli spôsobu, akým sú vektorové obrázky
+vytvárané. Vytvárajú sa pomocou bodov, medzi ktorými sa vytvárajú úsečky a každým
+priblížením sa vykresľujú znova. Rastrové obrázky sú tvorené súborom pixelov, čo vedie k
+strate kvality pri zväčšovaní. Rastrová grafika umožňuje presnú manipuláciu s každým
+pixelom obrázka z tohto dôvodu je lepšou voľbou pri úpravách fotografií, pretože
+zachováva detaily a farebné hĺbky fotografie.
+3. CorelDRAW – CRD
+GIMP – XCF
+
+Rastrové Vektorové
+Skicár Zooner Callisto
+Gimp CorelDRAW
+logomotion
