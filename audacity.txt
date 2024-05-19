@@ -1,0 +1,30 @@
+Máme pripravený text piesne v súbore „text.txt“ a zvukovú nahrávku piesne,,nahravka.mp3&quot;.
+Vytvorte pomôcku pre nácvik spievania piesne tak, že okrem zvuku piesne budeme vidieť aj
+príslušnú časť textu (jeden verš). Porovnajte ako sa zmenila veľkosť výsledných súborov
+(súboru) v porovnaní s veľkosťou pôvodných súborov?
+
+Na vytvorenie takejto pomôcky by som použil program ako napríklad Audacity. Kde by som najprv
+otvoril súbor nahrávka.mp3 a potom by som postupne manuálne popridával jednotlivé verše textu
+pesničky zo súboru text.txt a snažil by som sa ich čo najpresnejšie nastaviť tak aby boli v súlade
+s nahrávkou.
+
+Potom by som mohol využiť zabudovanú funkciu „karaoke“.
+
+Veľkosť nového súboru by bola oproti pôvodným mnohonásobne väčšia, pretože by sme pôvodné
+dva súbory spojili do jedného multimediálneho.
+
+ Ako by sme mohli zmenšiť veľkosť výsledného súboru (výsledných súborov)?
+Výsledný súbor by sme mohli skomprimovať pomocou rôznych kompresných algoritmov. Pri
+komprimácií takýchto typov informácii by sme s najväčšou pravdepodobnosťou použili
+stratovú kompresiu, pretože pri porovnaní originálneho a skomprimovaného súboru človek
+nevníma jemné rozdiely. Stratová kompresia sa používa pri prípadoch kde je možné tolerovať
+zánik niektorých informácii, ak to povedie k významnému zmenšeniu miesta, ktoré by súbor
+zaberal.
+Ďalej by sme ešte mohli odstrániť zbytočné informácie alebo metadáta.
+
+ Akým spôsobom sa dá zabezpečiť, aby sme takýmto spracovaním údajov neporušili autorské
+práva ?
+Aby sme sa vyhli porušeniu autorských práv, musíme mať povolenie od majiteľa autorských
+práv na použitie textu piesne a nahrávky. Ak vytvárame pomôcku pre osobné alebo pre
+vzdelávacie účely existujú licencie pod ktorými nahrávku smieme použiť napr.: Creative
+Commons. Pre komerčné použitie je však nevyhnutné získať povolenie.
