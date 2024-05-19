@@ -1,0 +1,16 @@
+Úloha č.2
+1. Naše počítače využívajú zdieľanú diskovú kapacitu. Ďalej môžu pripojení používatelia medzi
+sebou komunikovať cez elektronickú poštu (vazka webmail). Čo sa týka hardvérových prvkov
+sieť využíva prepojovacie vedenie. Sieťové uzly sú všetky počítače, tlačiarne alebo akékoľvek
+iné zariadenia pripojené do siete. Sieťové segmenty môžu byť rôzne podsiete alebo fyzické
+časti siete, ktoré sú prepojené medzi sebou.
+2. Poznáme 2 základné druhy počítačových sietí: Client-to-server a peer-to-peer. Pri client-to-
+server počítačovej sieti predstavuje centrum server, ktorý poskytuje podriadeným počítačom
+hardvér, služby alebo údaje. Peer-to-peer je typ počítačovej siete, ktorej sú všetky pracovné
+stanice rovnocenné. Výhoda tejto siete oproti client-to-server sieti je, že v prípade poruchy
+ľubovoľnej stanice môžu ostatné pokračovať v práci bez obmedzení. (Pri client-to-server sieti
+znamená porucha servera koniec práce všetkých počítačov.) Naša školská je client-to-server.
+3. Prvý obrázok znázorňuje zbernicovú topológiu rozmiestnenia. Na druhom obrázku je
+hviezdicová. Je tvorená uzlami, ktoré sú pripojené do jedného centrálneho bodu. Na tretom
+je kruhová. V takomto zapojení je prvý počítač prepojený s druhým a druhý s tretím atď. až
+posledný zasa s prvým. Naša školská podlieha hviezdicovej.
