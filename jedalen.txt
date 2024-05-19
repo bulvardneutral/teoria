@@ -1,0 +1,14 @@
+Úloha 2
+Variant D
+- Rozbor spotreby surovín
+Na začiatok by som sa snažil zhromaždiť dáta o spotrebe surovín, koľko z čoho sa
+spotrebovalo za určité obdobie napríklad posledný mesiac.
+- Stanovanie potrebného množstva surovín
+Na základe počtu prihlásených žiakov a výberu jedál na daný deň, by som vypočítal aké
+množstvo z potrebných surovín bude nutné na prípravu jedál.
+- Doplnenie zásob
+Porovnal by som množstvo potrebných surovín s aktuálnym stavom v sklade po zatopení
+a určil by som aké množstvo je potrebné dokúpiť.
+- Možnosti nákupu
+Porovnal by som všetky obchody, veľkosklady, ktoré ponúkajú potraviny, ktoré jedáleň
+potrebuje, po zvážení všetkých alternatív by som zvolil obchod s najnižšou cenou.
